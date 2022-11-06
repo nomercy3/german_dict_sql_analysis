@@ -1,3 +1,5 @@
+# German Dictionary SQL Analysis
+
 Hi!
 These are just some SQL exercises I did to teach myself SQL.
 
