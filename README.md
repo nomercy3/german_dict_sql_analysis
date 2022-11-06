@@ -30,4 +30,4 @@ There are some questions, which I didn't include. But you can try to solve it by
 - Scrabble: Now in Scrabble you can only use all of your letters without joining to another word if you go first. So add 8 letter words to the list.
 
 ## Thanks
-Many thanks to a redditor, who encouraged me to do this. [The original post]https://www.reddit.com/r/SQL/comments/g4ct1l/what_are_some_good_resources_to_practice_sql/?utm_source=share&utm_medium=ios_app&utm_name=iossmf).
+Many thanks to a redditor, who encouraged me to do this. [The original post](https://www.reddit.com/r/SQL/comments/g4ct1l/what_are_some_good_resources_to_practice_sql/?utm_source=share&utm_medium=ios_app&utm_name=iossmf).
