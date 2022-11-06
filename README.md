@@ -6,7 +6,7 @@ These are just some SQL exercises I did to teach myself SQL.
 ## Data
 Data for this research is German Nouns Dictionary. It is in the attached csv file, so you can run the querys by yourself.
 
-## Instrumens
+## Instruments
 RDBMS is Postgresql. One should ask why haven't I consider Jupyter Notebook and to describe the analysis in Python. But I really wanted to teach myself SQL data manupulation with complex querys (well, relatively complex).
 
 ## Questions
